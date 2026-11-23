@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tes Sumatif ",
+  "description": "Aplikasi Tes Sumatif IPAS Kelas 4 (Wujud Zat dan Perubahannya) SD Negeri 3 Loloan Timur dengan 40 butir soal bergambar, kisi-kisi Kurikulum Merdeka, matriks analisis butir soal, ekspor Excel/CSV/PDF, serta sinkronisasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
